@@ -1,2 +1,2 @@
 # data-structures
-homewrok and experiment
+homework and experiment
